@@ -8,4 +8,4 @@ A JavaScript program used to solve any quadratic equation inputted by the user, 
 
 ## Implementation
 
-Simply navigate to `src`, then run `main.js` in a terminal if you have Python 3.
+Simply navigate to `src`, then run `main.js` in your JavaScript compiler.
