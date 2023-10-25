@@ -2,7 +2,7 @@
 
 ## About
 
-A JavaScript program used to solve any quadratic equation inputted by the user, using the quadratic equations formula.
+A JavaScript program to solve any quadratic equation inputted by the user, using the quadratic formula. Not to be used for cheating on maths homework!
 
 ## The Quadratic Formula 
 
